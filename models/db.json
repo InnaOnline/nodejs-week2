@@ -1,0 +1,76 @@
+{
+  "skills": [
+    {
+      "number": "12",
+      "text": "Возраст начала занятий на скрипке",
+      "id": "1"
+    },
+    {
+      "number": "76",
+      "text": "Концертов отыграл",
+      "id": "2"
+    },
+    {
+      "number": "30",
+      "text": "Максимальное число городов в туре",
+      "id": "3"
+    },
+    {
+      "number": "20",
+      "text": "Лет на сцене в качестве скрипача",
+      "id": "4"
+    }
+  ],
+  "products": [
+    {
+      "src": "./assets/img/products/Work1.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work2.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work3.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work4.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work5.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work6.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work7.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work8.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work9.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    }
+  ],
+  "user": {
+    "login": "testexpress@yandex.ru",
+    "hash": "d4a7bbb63389a4d83fdf78aa5fd7622633906318d2b48a9c95a182fcfe34c207d59346e5e644a7c232f2b3bcb3425a4fa2fef12141b29c9ae48d03810c3f27af474bc62705fa9f1ef953fa4ddbecc522be4a97b131847cb55a1c3a55b4dde0a074e5d337a13cb386787b46089c1b5f452c7fe05c8b39fe947d058cde4fbb0d2571946a1c106e2a93e3dbf8135878142cab8c279572b7f01224783baf787c99f14525bc31357654b4630de7fa3e7408d3e313f0b073fdc457144a125ead08dac26216f10aa8974f523521cc23abb6767e9f7e27ef15f45fe530945e7435b3804ec8e7901d0d8b95145cf0e22d4ccf48248db62f064738a5e42f1f492af2a9c60356184116721be25498fb665276290f2e5dfd5f6b9342dc108b6b3debcd04a386f083fab01a572f178172ff9b270818ff540107054361dc6f333bdf8704493481c8a9879aa904ec575b06f676ce23f99e7b7af9b0ff33798c66bda6ff8da2ad16d8c3196fe897a62e3b631bc0827589c2019881b7392d6f7ee26b344c30a683004a195b45c408538c747ba5bd44af8285967048209af17f07456af98e37859958e5363f896aa9f3bd736a8a11a0f5501c72ce527257abb70485018d96a89b76b3b486ca25ef8fb6e004032eaee846cbb52730d43ef8c5826526d703ff5fd4568a3ccbafedde5fa4c0b1f727479291222ac297aca6ea3c376f0b2dba00832b451a",
+    "salt": "20839e7ea1d925c47a4f662b4c8faad1"
+  }
+}
